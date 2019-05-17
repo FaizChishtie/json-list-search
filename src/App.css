@@ -1,5 +1,17 @@
 .App {
-  text-align: center;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-search{
+  width: inherit;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-list{
+  background-color: beige;
 }
 
 .App-logo {

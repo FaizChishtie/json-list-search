@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "name": "Malcolm Ralston",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Thalia Bongiorno",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Mabelle Culwell",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Lyda Quarles",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Chanel Mazzotta",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Ivan Diangelo",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Fritz Sarkisian",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Yulanda Montalvan",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Rea Mathes",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Doloris Touchette",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Armand Woodford",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Guy Hockaday",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Lynetta Borton",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Harriett Maughan",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Darby Bowland",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Simone Hornick",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Margarette Veasey",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Hiroko Ridlon",
+            "description": "I am a description",
+            "image" : "team.png"
+        },
+        {
+            "name": "Foster Hiebert",
+            "description": "I am a description",
+            "image" : "collaboration.png"
+        },
+        {
+            "name": "Ok Glad",
+            "description": "I am a description",
+            "image" : "team.png"
+        }
+    ]
+}
